@@ -16,25 +16,25 @@ A saída consiste de três linhas, contendo um único inteiro cada. A primeira l
 ****Exemplos****
 
 **Entrada**
-3 1
-1
-2
-3
+3 1<br>
+1<br>
+2<br>
+3<br>
 
 **Saída**
-1
-2
-3
+1<br>
+2<br>
+3<br>
 
 **Entrada**
-5 2
-3 7
-2 5
-1 1
-15 2
-2 2
+5 2<br>
+3 7<br>
+2 5<br>
+1 1<br>
+15 2<br>
+2 2<br>
 
 **Saída**
-3
-5
+3<br>
+5<br>
 2
