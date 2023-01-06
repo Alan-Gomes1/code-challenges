@@ -6,32 +6,35 @@ Dada uma sequência de informações sobre partidas de Par ou Ímpar (nomes dos 
 ****Entrada****
 A entrada é composta de vários conjuntos de testes. A primeira linha de um conjunto de testes contém um inteiro N, que indica o número de partidas de Par ou Ímpar que aconteceram. As duas linhas seguintes contêm cada uma um nome de jogador. Um nome de jogador é uma cadeia de no mínimo um e no máximo dez letras (maiúsculas e minúsculas), sem espaços em branco. As N linhas seguintes contêm cada uma dois inteiros A e B que representam o número de dedos que cada jogador mostrou em cada partida (0 <= A <= 5 e 0 <= B <= 5). Em todas as partidas, o primeiro jogador sempre escolhe Par. O final da entrada é indicado por N = 0.
 
-**Exemplo de entrada**
-3
-Pedro
-Paulo
-2 4
-3 5
-1 0
-2
-Claudio
-Carlos
-1 5
-2 3
-0
+**Exemplo de entrada**<br>
+3<br>
+Pedro<br>
+Paulo<br>
+2 4<br>
+3 5<br>
+1 0<br>
+2<br>
+Claudio<br>
+Carlos<br>
+1 5<br>
+2 3<br>
+0<br>
 
-****Saída****
+****Saída****<br>
 Para cada conjunto de teste da entrada, seu programa deve produzir a saída da seguinte forma. A primeira linha deve conter um identificador do conjunto de teste, no formato "Teste n", onde n é numerado sequencialmente a partir de 1. As próximas N linhas devem indicar o nome do vencedor de cada partida. A próxima linha deve ser deixada em branco. A grafia mostrada no Exemplo de Saída, abaixo, deve ser seguida rigorosamente.
 
-**Exemplo de Saída**
-Teste 1
-Pedro
-Pedro
-Paulo
-Teste 2
-Claudio
-Carlos
+**Exemplo de Saída**<br>
+Teste 1<br>
+Pedro<br>
+Pedro<br>
+Paulo<br>
+Teste 2<br>
+Claudio<br>
+Carlos<br>
 
-(esta saída corresponde ao exemplo de entrada acima)
-****Restrições****
-0 <= N <= 1000 (N = 0 apenas para indicar o fim da entrada)0 <= A <= 50 <= B <= 51 <= comprimento do nome de jogador <= 10
+(esta saída corresponde ao exemplo de entrada acima)<br>
+****Restrições****<br>
+0 <= N <= 1000 (N = 0 apenas para indicar o fim da entrada)<br>
+0 <= A <= 5<br>
+0 <= B <= 5<br>
+1 <= comprimento do nome de jogador <= 10
