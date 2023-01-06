@@ -28,24 +28,24 @@ A primeira linha da entrada contém dois inteiros N e M (2 ≤ N ≤ 500.000, 1 
 Seu programa deve imprimir, na saída padrão, o valor 1 se em algum momento Demasi se afastou da delegacia além da distância permitida, ou o valor 0 caso contrário.
 ****Exemplos****
 
-**Entrada**
-5 10
-N 2
-L 3
-S 4
-O 4
-O 3
+**Entrada**<br>
+5 10<br>
+N 2<br>
+L 3<br>
+S 4<br>
+O 4<br>
+O 3<br>
 
-**Saída**
-0
+**Saída**<br>
+0<br>
 
-**Entrada**
-5 10
-N 6
-L 8
-S 15
-O 5
-O 4
+**Entrada**<br>
+5 10<br>
+N 6<br>
+L 8<br>
+S 15<br>
+O 5<br>
+O 4<br>
 
-**Saída**
+**Saída**<br>
 1
