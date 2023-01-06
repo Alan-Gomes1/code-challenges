@@ -15,18 +15,18 @@ A saída consiste de três linhas, contendo um único inteiro cada. A primeira l
 • 1 ≤ qualquer número da entrada que represente o tempo de uma volta ≤ 106
 ****Exemplos****
 
-**Entrada**
+**Entrada**<br>
 3 1<br>
 1<br>
 2<br>
 3<br>
 
-**Saída**
+**Saída**<br>
 1<br>
 2<br>
 3<br>
 
-**Entrada**
+**Entrada**<br>
 5 2<br>
 3 7<br>
 2 5<br>
@@ -34,7 +34,7 @@ A saída consiste de três linhas, contendo um único inteiro cada. A primeira l
 15 2<br>
 2 2<br>
 
-**Saída**
+**Saída**<br>
 3<br>
 5<br>
 2
