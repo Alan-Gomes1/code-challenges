@@ -37,11 +37,12 @@ Pode ser mais de uma das três estruturas mencionadas acima.
 
 | Entrada | Saída |
 | --- | --- |
-| 6
-1 1
-1 2
-1 3
-2 1
+| 6   | queue |
+1 1   | not sure |
+1 2   | impossible |
+1 3   | stack |
+1 3   | priority queue |
+2 1   
 2 2
 2 3
 6
@@ -66,8 +67,4 @@ Pode ser mais de uma das três estruturas mencionadas acima.
 1 3
 2 5
 1 4
-2 4 | queue
-not sure
-impossible
-stack
-priority queue |
+2 4 
