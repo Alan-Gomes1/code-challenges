@@ -3,11 +3,11 @@
 Por questões de segurança, muitos bancos hoje em dia estão alterando a forma como seus clientes digitam as senhas nos caixas eletrônicos, pois alguém pode postar-se atrás do cliente e ver as teclas à medida em que ele as digita.
 Uma alternativa bastante utilizada tem sido associar os dez dígitos a cinco letras, de forma que cada letra esteja associada a dois dígitos, conforme o exemplo abaixo: <br>
 
- ___ ___  
-| A | 1 | | B | 3 | | C | 0 | | D | 5 | | E | 2 |
-|   | _ | |   | _ | |   | _ | |   | _ | |   | _ |
-|   | 7 | |   | 9 | |   | 8 | |   | 6 | |   | 4 |
-___  ___ 
+| A | B | C | D | E |
+|---|---|---|---|---|
+| 1 | 3 | 0 | 5 | 2 |
+| 7 | 9 | 8 | 6 | 4 |
+
 As associações entre números e letras são mostradas como botões numa tela sensível ao toque, permitindo que o cliente selecione os botões correspondentes à senha. Considerando a disposição dos botões da figura acima, a senha 384729 seria digitada como BCEAEB (note que a mesma sequência de letras seria digitada para outras senhas, como por exemplo 982123). Cada vez que o cliente usa o caixa eletrônico, as letras utilizadas são as mesmas (de 'A’ a 'E’), com os botões nas mesmas posições, mas os dígitos são trocados de lugar. Assim, caso um intruso veja (mesmo que mais de uma vez) a sequência de letras digitada, não é possível notar facilmente qual a senha do cliente do banco.<br>
 ****Tarefa**** <br>
 Dada uma sequência de associações entre letras e números, e as letras digitadas pelo cliente do banco para cada uma dessas associações, você deve escrever um programa para determinar qual é a senha do cliente.
