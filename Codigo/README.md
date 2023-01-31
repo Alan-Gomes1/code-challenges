@@ -6,7 +6,7 @@ Por exemplo, na sequência 11101001010011110, o padrão aparece duas vezes e na 
 
 ### Entrada <br>
 
-A primeira linha da entrada contém um inteiro N*N*, o tamanho da sequência. A segunda linha contém a sequência de N*N* zeros e uns, separados por espaço em branco. <br>
+A primeira linha da entrada contém um inteiro N*, o tamanho da sequência. A segunda linha contém a sequência de N* zeros e uns, separados por espaço em branco. <br>
 
 ### Saída <br>
 
@@ -15,9 +15,14 @@ Seu programa deve imprimir um inteiro, quantas vezes o padrão "100" aparece na 
 ### Restrições <br>
 
 - 1 ≤ *N* ≤ $10^4$ <br>
+
 | Entrada | Saída |
-|---------|-------|
-| 17<br>1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 0 | 2 |
-| 8<br>1 1 1 1 0 1 1 1 | 0 |
-| 3<br>1 0 0 | 1 |
-| 3<br>0 1 0 | 0 |
+|---|---|
+| 17<br> | 2 |
+| 1 1 1 0 1 0 0 1 0 1 0 0 1 1 1 1 0 | |
+| 8<br> | 0 |
+| 1 1 1 1 0 1 1 1 | |
+| 3<br> | 1 |
+| 1 0 0 | |
+| 3<br> | 0 |
+| 0 1 0 | |
