@@ -14,9 +14,9 @@ um inteiro indicando a pontuação obtida em cada jogo.
 Seu programa deve imprimir M linhas, contendo as M maiores pontuações em ordem decrescente.
 
 **Restrições** <br>
-• 1 ≤ N ≤ 10000
-• 1 ≤ M ≤ 500
-• M ≤ N 
+• 1 ≤ N ≤ 10000 <br>
+• 1 ≤ M ≤ 500 <br>
+• M ≤ N
 <br>
 <br>
 **Exemplo** <br>
