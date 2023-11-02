@@ -1,4 +1,4 @@
-Olimpíadas 2016
+# Olimpíadas 2016
 
 O Comitê Olímpico Internacional (COI) está visitando as cidades candidatas a sediar as Olimpíadas de 2016. O Rio de Janeiro é uma das cidades concorrentes, mas a competição é muito acirrada.
 
@@ -22,28 +22,28 @@ Seu programa deve imprimir, na saída padrão, uma linha contendo N números, se
 
 Exemplos
 
-Entrada
-2 2
-2 1 2
-1 2 2
+Entrada <br>
+2 2 <br>
+2 1 2 <br>
+1 2 2 <br>
 
-Saída
-2 1
+Saída <br>
+2 1 <br>
 
-Entrada
-4 3
-3 2 1
-4 3 1
-4 3 1
+Entrada <br>
+4 3 <br>
+3 2 1 <br>
+4 3 1 <br>
+4 3 1 <br>
 
-Saída
-1 3 4 2
+Saída <br>
+1 3 4 2 <br>
 
-Entrada
-3 3
-3 1 2
-2 3 1
-1 2 3
+Entrada <br>
+3 3 <br>
+3 1 2 <br>
+2 3 1 <br>
+1 2 3 <br>
 
-Saída
+Saída <br>
 1 2 3
