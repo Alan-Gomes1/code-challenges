@@ -1,5 +1,4 @@
-Troca de senhas 2
-Mostrar detalhes
+# Troca de senhas 2
 
 João e Maria estão sempre contando segredos um ao outro. Para tanto, eles precisam compartilhar uma senha comum, que é usada para criptografar uma mensagem ou decifrar uma mensagem codificada recebida. O protocolo de criptografia exige que a senha seja modificada periodicamente, o que requer passar a senha de um para o outro. No passado, eles haviam estabelecido um protocolo para que a troca de senha pudesse ser feita de forma segura, mesmo passando o valor da senha na mensagem sem usar criptografia. Maria, no entanto, resolveu melhorar o protocolo, tornando-o mais robusto. Ela combinou a seguinte estratégia com João:
 
