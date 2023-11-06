@@ -18,24 +18,24 @@ A saída consistirá num único número X, que representa o total de duplas de d
 
 Restrições
 
-1 ≤ N ≤ 100 000.
-Todas as dançarinas possuirão níveis distintos, entre 1 e 100 000.
-O total de pares válidos, em todos os casos, será ≤ 1 000 000.
+1 ≤ N ≤ 100 000. <br>
+Todas as dançarinas possuirão níveis distintos, entre 1 e 100 000. <br>
+O total de pares válidos, em todos os casos, será ≤ 1 000 000. <br>
 
 
 Exemplos
 
-Entrada
-5
-1 5 2 4 3
+Entrada <br>
+5 <br>
+1 5 2 4 3 <br>
 
 Saída
-4
+4 <br>
 
-Entrada
-9
+Entrada <br>
+9 <br>
 9 8 7 6 5 4 3 1 2
 
-Saída
+Saída <br>
 35
 
