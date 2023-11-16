@@ -11,19 +11,14 @@ A entrada será primeiramente um inteiro ‘N’ (4 <= N <= 10), representando a
 Saída
 
 Você deverá imprimir a quantidade de espécies verificadas em todas as coordenadas solicitadas no mapa. <br>
-Entrada 	Saída
-
-4 <br>
-100 200 300 400 <br>
-100 200 300 400 <br>
-400 300 200 100 <br>
-400 300 200 100 <br>
-3 <br>
-0 2 <br>
-2 3 <br>
-3 3 <br>
-  
-
-	
-
-500
+| Entrada 	      | Saída|
+| --------------- | -----|
+| 4               | 500  |
+| 100 200 300 400 |      |
+| 100 200 300 400 |      |
+| 400 300 200 100 |      |
+| 400 300 200 100 |      |
+| 3               |      |
+| 0 2             |      |
+| 2 3             |      |
+| 3 3             |      |
