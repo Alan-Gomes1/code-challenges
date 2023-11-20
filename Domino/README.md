@@ -1,4 +1,4 @@
-Dominó
+# Dominó
 
 Jogar dominó em Salvador é algo tão ou mais famoso do que ir atrás do trio no Carnaval. O pessoal aposta alto nesse jogo, tem muita gente que aposta o próprio abadá, para vocês verem a paixão do soteropolitano por esse jogo. Como ninguém quer ser passado para trás, constantemente eles estão contando e verificando as peças já em jogo, até mesmo para calcular melhor as probabilidades. Como você é jogador fanático desse jogo também, terá que verificar quantas peças já estão em jogo.
 
@@ -8,8 +8,8 @@ Será dada uma matriz de inteiros de tamanho 7x7, onde as posições na matriz p
 
 Saída
 
-Imprima simplesmente quantas peças do dominó estão em campo.
-Entrada 	Saída
+Imprima simplesmente quantas peças do dominó estão em campo. <br>
+Entrada 	Saída <br>
 
 0 1 1 0 0 0 1
 1 0 0 0 0 0 1
