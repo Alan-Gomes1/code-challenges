@@ -11,25 +11,16 @@ A primeira linha deve conter dois números inteiros M e N separados por espaço,
 Saída
 
 A saída deve conter um único número inteiro, que representa a soma dos valores da linha L ou coluna C, conforme especificado na entrada.
-Entrada 	Saída
-
-3 3
-2 4 6
-1 3 5
-7 8 9
-L 2
-  
-
-	
-
-9
-
-2 5
-2 4 6 3 5
-1 3 5 7 2
-C 3
-
-	
-
-11
+| Entrada 	| Saída  |
+| ----------| -------|
+| 3 3       | 9      |
+| 2 4 6     |        |
+| 1 3 5     |        |
+| 7 8 9     |        |
+| L 2       |        |
+|           |        |
+| 2 5       | 11     |
+| 2 4 6 3 5 |        |
+| 1 3 5 7 2 |        |
+| C 3       |        |
   
