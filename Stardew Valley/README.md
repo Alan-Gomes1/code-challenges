@@ -4,12 +4,10 @@ Você está participando do desafio da colheita do Stardew Valley, e deseja orga
 
 Sua tarefa é: Calcular a soma de todos os valores de uma linha específica L ou de uma coluna específica C. Por exemplo, se o jogador deseja calcular a soma dos valores da linha 3, ele deve somar todos os valores da terceira linha.
 
-Entrada
-
+Entrada <br>
 A primeira linha deve conter dois números inteiros M e N separados por espaço, representando o número de linhas e colunas do terreno de cultivo, respectivamente. As próximas M linhas contém N inteiros V, separados por espaço, representando os valores de cada célula do terreno de cultivo. A última linha contém um caractere que pode ser "L" ou "C", seguido por um número inteiro X, representando a linha ou coluna que o jogador deseja calcular a soma. Saiba que 1 <= M, N <= 100, 0 <= V <= 9 e 1 <= X <= M, N.
 
-Saída
-
+Saída <br>
 A saída deve conter um único número inteiro, que representa a soma dos valores da linha L ou coluna C, conforme especificado na entrada.
 | Entrada 	| Saída  |
 | ----------| -------|
