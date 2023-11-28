@@ -1,5 +1,4 @@
 F91 de McCarthy
-Mostrar detalhes
 
 McCarthy é um teórico famoso de ciência da computação. No seu trabalho, ele definiu uma função recursiva, chamada f91, que recebe como entrada um inteiro N e retorna um inteiro positivo definido como a seguir:
 
