@@ -11,7 +11,7 @@ Entrada
 
 O arquivo de entrada consiste de uma série de inteiros positivos, cada inteiro é no máximo 1.000.000. Há no máximo 250.000 casos de teste. Cada linha possui somente um número. O fim da entrada é alcançada quando o número 0 é encontrado. O número 0 não deve ser considerado como parte do conjunto de teste.
 
-Saída
+Saída <br>
 
 O programa deve imprimir cada resultado em uma linha, seguindo o formato fornecido no exemplo de saída.
 
