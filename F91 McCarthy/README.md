@@ -18,7 +18,7 @@ O programa deve imprimir cada resultado em uma linha, seguindo o formato forneci
 Exemplo
 
 Entrada: <br>
-500
+500 <br>
 91
 0
 
