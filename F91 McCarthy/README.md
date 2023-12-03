@@ -19,7 +19,7 @@ Exemplo
 
 Entrada: <br>
 500 <br>
-91
+91 <br>
 0
 
 Saída:
