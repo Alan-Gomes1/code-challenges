@@ -22,6 +22,6 @@ Entrada: <br>
 91 <br>
 0
 
-Saída:
+Saída: <br>
 f91(500) = 490
 f91(91) = 91
