@@ -1,4 +1,4 @@
-Supermercado
+# Supermercado
 
 A rede de supermercados BemBom, da cidade de Planalto, decidiu reformular o armazenamento de seus estoques. No sistema atual, cada uma das lojas da rede possui espaço para armazenar um pequeno estoque, sendo freqüentemente necessário transportar mercadorias de uma loja para outra. Para racionalizar o transporte e aumentar a capacidade de estoque, a direção da rede Bem-Bom decidiu instalar um depósito central. De forma a diminuir os custos com transporte, ﬁcou deﬁnido que o novo depósito deve ser localizado em um quarteirão que minimize a soma das distâncias dele até todas as lojas da rede.
 
