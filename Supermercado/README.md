@@ -22,7 +22,7 @@ Para cada conjunto de teste, o seu programa deve escrever três linhas na saída
 Exemplo
 
 Entrada: <br>
-4
+4 <br>
 1 2
 -3 -3
 4 -1
