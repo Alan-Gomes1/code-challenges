@@ -23,7 +23,7 @@ Exemplo
 
 Entrada: <br>
 4 <br>
-1 2
+1 2 <br>
 -3 -3
 4 -1
 -5 0
