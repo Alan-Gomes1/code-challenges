@@ -35,7 +35,7 @@ Entrada: <br>
 25 1 <br>
 0
 
-Saída:
+Saída: <br>
 Teste 1
 1 0
 
