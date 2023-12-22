@@ -36,7 +36,7 @@ Entrada: <br>
 0
 
 Saída: <br>
-Teste 1
+Teste 1 <br>
 1 0
 
 Teste 2
