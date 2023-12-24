@@ -45,6 +45,6 @@ Teste 2 <br>
 
 Restrições
 
-0 <= S <= 1000 (S = 0 apenas para indicar o ﬁnal da entrada)
+0 <= S <= 1000 (S = 0 apenas para indicar o ﬁnal da entrada) <br>
 -1000 <= X <= 1000
 -1000 <= Y <= 1000
