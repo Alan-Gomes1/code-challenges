@@ -1,5 +1,5 @@
-Palavras Ordenadas
-Mostrar detalhes
+# Palavras Ordenadas
+
 
 Palavras como “belo”, “fino”, “cruz” e “flor” possuem a interessante propriedade de que suas letras aparecem todas em ordem alfabética. Por exemplo, em “flor”, f vem antes de l no alfabeto, l vem antes de o, e o vem antes de r. Dizemos que palavras com essa propriedade são ordenadas.
 
