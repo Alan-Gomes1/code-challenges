@@ -17,7 +17,7 @@ Para cada palavra dada na entrada, imprima uma linha na saída no formato <palav
 
 Exemplos
 
-Entrada:
+Entrada: <br>
 8
 a
 belo
