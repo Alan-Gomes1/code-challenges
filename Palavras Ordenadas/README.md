@@ -18,10 +18,10 @@ Para cada palavra dada na entrada, imprima uma linha na saída no formato <palav
 Exemplos
 
 Entrada: <br>
-8
-a
-belo
-fiNo
+8 <br>
+a <br>
+belo <br>
+fiNo <br>
 Cruz
 flor
 batata
