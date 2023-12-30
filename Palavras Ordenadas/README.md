@@ -22,11 +22,11 @@ Entrada: <br>
 a <br>
 belo <br>
 fiNo <br>
-Cruz
-flor
-batata
-abracadabra
-aaaabc
+Cruz <br>
+flor <br>
+batata <br>
+abracadabra <br>
+aaaabc 
 
 Saída:
 a: O
