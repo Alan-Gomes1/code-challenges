@@ -30,8 +30,8 @@ aaaabc
 
 Saída: <br>
 a: O <br>
-belo: O
-fiNo: O
+belo: O <br>
+fiNo: O <br>
 Cruz: O
 flor: O
 batata: N
