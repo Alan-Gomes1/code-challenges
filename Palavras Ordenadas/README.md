@@ -28,8 +28,8 @@ batata <br>
 abracadabra <br>
 aaaabc 
 
-Saída:
-a: O
+Saída: <br>
+a: O <br>
 belo: O
 fiNo: O
 Cruz: O
