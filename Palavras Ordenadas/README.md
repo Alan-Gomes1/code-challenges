@@ -32,8 +32,8 @@ Saída: <br>
 a: O <br>
 belo: O <br>
 fiNo: O <br>
-Cruz: O
-flor: O
-batata: N
-abracadabra: N
+Cruz:  <br>
+flor: O <br>
+batata: N <br>
+abracadabra: N <br>
 aaaabc: N
